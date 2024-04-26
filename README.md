@@ -1,3 +1,5 @@
+![logo](https://github.com/imoamo/imoamo/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
+
 <h1 align="center">Hi 👋, I'm Mohd Imran</h1>
 <h3 align="center">A passionate full-stack web developer with a keen eye for creating dynamic and scalable websites. I thrive on the challenge of crafting engaging user experiences and optimizing performance to deliver top-notch results.</h3>
 
